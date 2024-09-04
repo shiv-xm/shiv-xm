@@ -5,8 +5,8 @@
 
  ![](https://github-profile-trophy.vercel.app/?username=shiv-xm&theme=panda&no-frame=false&no-bg=false&margin-w=4)
 
- -🌱 I'm currently Learning **AI/ML**
-- 📫 How to reach me **sudhanshushivam1@gmail.com**
+ -  🌱 I'm currently Learning **AI/ML**
+ - 📫 How to reach me **sudhanshushivam1@gmail.com**
 
 
 ## 🌐 Socials:
