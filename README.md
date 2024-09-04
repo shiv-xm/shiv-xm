@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Sudhanshu Shivam</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
- [![](https://visitcount.itsvg.in/api?id=shiv-xm&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv-xm&label=Profile%20views&color=0e75b6&style=flat" alt="shiv-xm" /> </p>
+ 
  ![](https://github-profile-trophy.vercel.app/?username=shiv-xm&theme=panda&no-frame=false&no-bg=false&margin-w=4)
 
  -  🌱 I'm currently Learning **AI/ML**
