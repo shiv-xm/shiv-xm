@@ -9,6 +9,12 @@
  - 📫 How to reach me **sudhanshushivam1@gmail.com**
 
 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=shiv-xm&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-xm&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=shiv-xm&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-shivam-205105258/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/_shv.xm)
